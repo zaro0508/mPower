@@ -10,3 +10,6 @@
 [submodule "ResearchKit"]
 	path = ResearchKit
 	url = https://github.com/Sage-Bionetworks/ResearchKit.git
+[submodule "mPowerSDK"]
+	path = mPowerSDK
+	url = https://github.com/Sage-Bionetworks/mPowerSDK.git
