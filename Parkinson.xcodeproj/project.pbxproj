@@ -664,7 +664,7 @@
 			attributes = {
 				CLASSPREFIX = APH;
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Apple, Inc.";
+				ORGANIZATIONNAME = "Sage Bionetworks";
 				TargetAttributes = {
 					CFC2D2D619A5417D00170E69 = {
 						CreatedOnToolsVersion = 6.0;
