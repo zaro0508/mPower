@@ -15,43 +15,22 @@
 		74B713F31AC0722E00FE2553 /* ResearchKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 743AD0D81ABE2DE40071C218 /* ResearchKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		74B713F71AC0722E00FE2553 /* APCAppCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 743AD0CC1ABE2DE40071C218 /* APCAppCore.framework */; };
 		74B713F81AC0722E00FE2553 /* APCAppCore.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 743AD0CC1ABE2DE40071C218 /* APCAppCore.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		80CBB0741C0CD9FA00E50D06 /* asthma_document.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0461C0CD9FA00E50D06 /* asthma_document.png */; };
 		80CBB0761C0CD9FA00E50D06 /* consent_section_PD.css in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0481C0CD9FA00E50D06 /* consent_section_PD.css */; };
-		80CBB0781C0CD9FA00E50D06 /* disease_information_top.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB04A1C0CD9FA00E50D06 /* disease_information_top.jpg */; };
 		80CBB0791C0CD9FA00E50D06 /* disease_information_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB04B1C0CD9FA00E50D06 /* disease_information_top.png */; };
 		80CBB07E1C0CD9FA00E50D06 /* institution.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0501C0CD9FA00E50D06 /* institution.png */; };
 		80CBB07F1C0CD9FA00E50D06 /* Intro_section_PD.css in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0511C0CD9FA00E50D06 /* Intro_section_PD.css */; };
 		80CBB0801C0CD9FA00E50D06 /* Learn_section_PD.css in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0521C0CD9FA00E50D06 /* Learn_section_PD.css */; };
-		80CBB0821C0CD9FA00E50D06 /* lifemap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0541C0CD9FA00E50D06 /* lifemap.jpg */; };
 		80CBB0851C0CD9FA00E50D06 /* online_resources_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0571C0CD9FA00E50D06 /* online_resources_top.png */; };
 		80CBB0871C0CD9FA00E50D06 /* PDrochester.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0591C0CD9FA00E50D06 /* PDrochester.jpg */; };
 		80CBB0881C0CD9FA00E50D06 /* PDvideo_cover.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB05A1C0CD9FA00E50D06 /* PDvideo_cover.PNG */; };
 		80CBB08A1C0CD9FA00E50D06 /* Sage_Bionetworks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB05C1C0CD9FA00E50D06 /* Sage_Bionetworks.jpg */; };
 		80CBB08C1C0CD9FA00E50D06 /* symptoms_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB05E1C0CD9FA00E50D06 /* symptoms_top.png */; };
 		80CBB08D1C0CD9FA00E50D06 /* treatment_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB05F1C0CD9FA00E50D06 /* treatment_top.png */; };
-		80CBB0981C0CDFBD00E50D06 /* 10study_task.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB09A1C0CDFBD00E50D06 /* 10study_task.html */; };
-		80CBB0A61C0CDFC200E50D06 /* 11withdrawing.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0A81C0CDFC200E50D06 /* 11withdrawing.html */; };
-		80CBB0A91C0CDFC900E50D06 /* 12potentialbenefits1.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0AB1C0CDFC900E50D06 /* 12potentialbenefits1.html */; };
-		80CBB0AC1C0CDFCD00E50D06 /* 13issues_survey.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0AE1C0CDFCD00E50D06 /* 13issues_survey.html */; };
-		80CBB0AF1C0CDFD100E50D06 /* 14issues_mood.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0B11C0CDFD100E50D06 /* 14issues_mood.html */; };
-		80CBB0B21C0CDFDC00E50D06 /* 15privacy_risk.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0B41C0CDFDC00E50D06 /* 15privacy_risk.html */; };
-		80CBB0B51C0CDFE000E50D06 /* 15sharing_rsch.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0B71C0CDFE000E50D06 /* 15sharing_rsch.html */; };
-		80CBB0B81C0CDFE800E50D06 /* 1welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0BA1C0CDFE800E50D06 /* 1welcome.html */; };
-		80CBB0BB1C0CDFED00E50D06 /* 2quiz_headsup.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0BD1C0CDFED00E50D06 /* 2quiz_headsup.html */; };
-		80CBB0BE1C0CDFF200E50D06 /* 3activities.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0C01C0CDFF200E50D06 /* 3activities.html */; };
-		80CBB0C11C0CDFF600E50D06 /* 4sensordata.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0C31C0CDFF600E50D06 /* 4sensordata.html */; };
-		80CBB0C41C0CDFFB00E50D06 /* 5dataprocessing.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0C61C0CDFFB00E50D06 /* 5dataprocessing.html */; };
-		80CBB0C71C0CDFFF00E50D06 /* 6protectingdata.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0C91C0CDFFF00E50D06 /* 6protectingdata.html */; };
-		80CBB0CA1C0CE00400E50D06 /* 7datause.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0CC1C0CE00400E50D06 /* 7datause.html */; };
-		80CBB0CD1C0CE00800E50D06 /* 8time.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0CF1C0CE00800E50D06 /* 8time.html */; };
-		80CBB0D01C0CE00C00E50D06 /* 9study_survey.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0D21C0CE00C00E50D06 /* 9study_survey.html */; };
 		80CBB0D31C0CE01200E50D06 /* AboutStudy.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0D51C0CE01200E50D06 /* AboutStudy.html */; };
 		80CBB0D61C0CE01700E50D06 /* AboutStudy_intro.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0D81C0CE01700E50D06 /* AboutStudy_intro.html */; };
-		80CBB0D91C0CE03600E50D06 /* consent.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0DB1C0CE03600E50D06 /* consent.pdf */; };
 		80CBB0DC1C0CE04100E50D06 /* consentvideo_intro.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0DE1C0CE04100E50D06 /* consentvideo_intro.html */; };
 		80CBB0DF1C0CE05000E50D06 /* EligibleToParticipate.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0E11C0CE05000E50D06 /* EligibleToParticipate.html */; };
 		80CBB0E21C0CE06500E50D06 /* feedback_intro.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0E41C0CE06500E50D06 /* feedback_intro.html */; };
-		80CBB0E51C0CE07100E50D06 /* howstudyworks.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0E71C0CE07100E50D06 /* howstudyworks.html */; };
 		80CBB0E81C0CE07600E50D06 /* howstudyworks_intro.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0EA1C0CE07600E50D06 /* howstudyworks_intro.html */; };
 		80CBB0EB1C0CE08700E50D06 /* learnmore_overview.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0ED1C0CE08700E50D06 /* learnmore_overview.html */; };
 		80CBB0EE1C0CE09000E50D06 /* lifewithPD.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0F01C0CE09000E50D06 /* lifewithPD.html */; };
@@ -260,43 +239,22 @@
 		747F5B671ABE2D3200197B68 /* APCAppCore.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = APCAppCore.xcodeproj; path = ../AppCore/APCAppCore/APCAppCore.xcodeproj; sourceTree = "<group>"; };
 		747F5B721ABE2D3E00197B68 /* ResearchKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ResearchKit.xcodeproj; path = ../researchkit/ResearchKit.xcodeproj; sourceTree = "<group>"; };
 		74B713981ABF04B900FE2553 /* BridgeSDK.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = BridgeSDK.xcodeproj; path = BridgeSDK/BridgeSDK.xcodeproj; sourceTree = SOURCE_ROOT; };
-		80CBB0461C0CD9FA00E50D06 /* asthma_document.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = asthma_document.png; sourceTree = "<group>"; };
 		80CBB0481C0CD9FA00E50D06 /* consent_section_PD.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = consent_section_PD.css; sourceTree = "<group>"; };
-		80CBB04A1C0CD9FA00E50D06 /* disease_information_top.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = disease_information_top.jpg; sourceTree = "<group>"; };
 		80CBB04B1C0CD9FA00E50D06 /* disease_information_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disease_information_top.png; sourceTree = "<group>"; };
 		80CBB0501C0CD9FA00E50D06 /* institution.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = institution.png; sourceTree = "<group>"; };
 		80CBB0511C0CD9FA00E50D06 /* Intro_section_PD.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = Intro_section_PD.css; sourceTree = "<group>"; };
 		80CBB0521C0CD9FA00E50D06 /* Learn_section_PD.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = Learn_section_PD.css; sourceTree = "<group>"; };
-		80CBB0541C0CD9FA00E50D06 /* lifemap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lifemap.jpg; sourceTree = "<group>"; };
 		80CBB0571C0CD9FA00E50D06 /* online_resources_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = online_resources_top.png; sourceTree = "<group>"; };
 		80CBB0591C0CD9FA00E50D06 /* PDrochester.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PDrochester.jpg; sourceTree = "<group>"; };
 		80CBB05A1C0CD9FA00E50D06 /* PDvideo_cover.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PDvideo_cover.PNG; sourceTree = "<group>"; };
 		80CBB05C1C0CD9FA00E50D06 /* Sage_Bionetworks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sage_Bionetworks.jpg; sourceTree = "<group>"; };
 		80CBB05E1C0CD9FA00E50D06 /* symptoms_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = symptoms_top.png; sourceTree = "<group>"; };
 		80CBB05F1C0CD9FA00E50D06 /* treatment_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = treatment_top.png; sourceTree = "<group>"; };
-		80CBB0991C0CDFBD00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/10study_task.html; sourceTree = "<group>"; };
-		80CBB0A71C0CDFC200E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/11withdrawing.html; sourceTree = "<group>"; };
-		80CBB0AA1C0CDFC900E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/12potentialbenefits1.html; sourceTree = "<group>"; };
-		80CBB0AD1C0CDFCD00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/13issues_survey.html; sourceTree = "<group>"; };
-		80CBB0B01C0CDFD100E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/14issues_mood.html; sourceTree = "<group>"; };
-		80CBB0B31C0CDFDC00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/15privacy_risk.html; sourceTree = "<group>"; };
-		80CBB0B61C0CDFE000E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/15sharing_rsch.html; sourceTree = "<group>"; };
-		80CBB0B91C0CDFE800E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/1welcome.html; sourceTree = "<group>"; };
-		80CBB0BC1C0CDFED00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/2quiz_headsup.html; sourceTree = "<group>"; };
-		80CBB0BF1C0CDFF200E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/3activities.html; sourceTree = "<group>"; };
-		80CBB0C21C0CDFF600E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/4sensordata.html; sourceTree = "<group>"; };
-		80CBB0C51C0CDFFB00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/5dataprocessing.html; sourceTree = "<group>"; };
-		80CBB0C81C0CDFFF00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/6protectingdata.html; sourceTree = "<group>"; };
-		80CBB0CB1C0CE00400E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/7datause.html; sourceTree = "<group>"; };
-		80CBB0CE1C0CE00800E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/8time.html; sourceTree = "<group>"; };
-		80CBB0D11C0CE00C00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/9study_survey.html; sourceTree = "<group>"; };
 		80CBB0D41C0CE01200E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/AboutStudy.html; sourceTree = "<group>"; };
 		80CBB0D71C0CE01700E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/AboutStudy_intro.html; sourceTree = "<group>"; };
-		80CBB0DA1C0CE03600E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Base; path = Base.lproj/consent.pdf; sourceTree = "<group>"; };
 		80CBB0DD1C0CE04100E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/consentvideo_intro.html; sourceTree = "<group>"; };
 		80CBB0E01C0CE05000E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/EligibleToParticipate.html; sourceTree = "<group>"; };
 		80CBB0E31C0CE06500E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/feedback_intro.html; sourceTree = "<group>"; };
-		80CBB0E61C0CE07100E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/howstudyworks.html; sourceTree = "<group>"; };
 		80CBB0E91C0CE07600E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/howstudyworks_intro.html; sourceTree = "<group>"; };
 		80CBB0EC1C0CE08700E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/learnmore_overview.html; sourceTree = "<group>"; };
 		80CBB0EF1C0CE09000E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/lifewithPD.html; sourceTree = "<group>"; };
@@ -439,39 +397,18 @@
 		80CBB0331C0CD9F900E50D06 /* HTMLContent */ = {
 			isa = PBXGroup;
 			children = (
-				80CBB09A1C0CDFBD00E50D06 /* 10study_task.html */,
-				80CBB0A81C0CDFC200E50D06 /* 11withdrawing.html */,
-				80CBB0AB1C0CDFC900E50D06 /* 12potentialbenefits1.html */,
-				80CBB0AE1C0CDFCD00E50D06 /* 13issues_survey.html */,
-				80CBB0B11C0CDFD100E50D06 /* 14issues_mood.html */,
-				80CBB0B41C0CDFDC00E50D06 /* 15privacy_risk.html */,
-				80CBB0B71C0CDFE000E50D06 /* 15sharing_rsch.html */,
-				80CBB0BA1C0CDFE800E50D06 /* 1welcome.html */,
-				80CBB0BD1C0CDFED00E50D06 /* 2quiz_headsup.html */,
-				80CBB0C01C0CDFF200E50D06 /* 3activities.html */,
-				80CBB0C31C0CDFF600E50D06 /* 4sensordata.html */,
-				80CBB0C61C0CDFFB00E50D06 /* 5dataprocessing.html */,
-				80CBB0C91C0CDFFF00E50D06 /* 6protectingdata.html */,
-				80CBB0CC1C0CE00400E50D06 /* 7datause.html */,
-				80CBB0CF1C0CE00800E50D06 /* 8time.html */,
-				80CBB0D21C0CE00C00E50D06 /* 9study_survey.html */,
 				80CBB0D51C0CE01200E50D06 /* AboutStudy.html */,
 				80CBB0D81C0CE01700E50D06 /* AboutStudy_intro.html */,
-				80CBB0461C0CD9FA00E50D06 /* asthma_document.png */,
-				80CBB0DB1C0CE03600E50D06 /* consent.pdf */,
 				80CBB0481C0CD9FA00E50D06 /* consent_section_PD.css */,
 				80CBB0DE1C0CE04100E50D06 /* consentvideo_intro.html */,
-				80CBB04A1C0CD9FA00E50D06 /* disease_information_top.jpg */,
 				80CBB04B1C0CD9FA00E50D06 /* disease_information_top.png */,
 				80CBB0E11C0CE05000E50D06 /* EligibleToParticipate.html */,
 				80CBB0E41C0CE06500E50D06 /* feedback_intro.html */,
-				80CBB0E71C0CE07100E50D06 /* howstudyworks.html */,
 				80CBB0EA1C0CE07600E50D06 /* howstudyworks_intro.html */,
 				80CBB0501C0CD9FA00E50D06 /* institution.png */,
 				80CBB0511C0CD9FA00E50D06 /* Intro_section_PD.css */,
 				80CBB0521C0CD9FA00E50D06 /* Learn_section_PD.css */,
 				80CBB0ED1C0CE08700E50D06 /* learnmore_overview.html */,
-				80CBB0541C0CD9FA00E50D06 /* lifemap.jpg */,
 				80CBB0F01C0CE09000E50D06 /* lifewithPD.html */,
 				80CBB0F31C0CE0A000E50D06 /* online_resources.html */,
 				80CBB0571C0CD9FA00E50D06 /* online_resources_top.png */,
@@ -817,47 +754,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80CBB0981C0CDFBD00E50D06 /* 10study_task.html in Resources */,
 				A78116791A96BC9400CEC822 /* 10_PotentialBenifits@3x.m4v in Resources */,
-				80CBB0781C0CD9FA00E50D06 /* disease_information_top.jpg in Resources */,
-				80CBB0A61C0CDFC200E50D06 /* 11withdrawing.html in Resources */,
 				F5C1DC2019D22E6F006527EA /* Main.storyboard in Resources */,
 				A781167C1A96BC9400CEC822 /* 13_RiskToPrivacy@3x.m4v in Resources */,
 				80CBB0F11C0CE0A000E50D06 /* online_resources.html in Resources */,
-				80CBB0741C0CD9FA00E50D06 /* asthma_document.png in Resources */,
-				80CBB0BE1C0CDFF200E50D06 /* 3activities.html in Resources */,
 				80CBB0F41C0CE0B200E50D06 /* PD_fullconsent.html in Resources */,
-				80CBB0C41C0CDFFB00E50D06 /* 5dataprocessing.html in Resources */,
 				80CBB08C1C0CD9FA00E50D06 /* symptoms_top.png in Resources */,
 				80CBB1001C0CE0E600E50D06 /* whoisrunning_intro.html in Resources */,
 				80CBB0FD1C0CE0E000E50D06 /* whoisrunning.html in Resources */,
-				80CBB0A91C0CDFC900E50D06 /* 12potentialbenefits1.html in Resources */,
-				80CBB0C71C0CDFFF00E50D06 /* 6protectingdata.html in Resources */,
 				A78116701A96BC9400CEC822 /* 01_Activities_to_SensorData@2x.m4v in Resources */,
 				A78116721A96BC9400CEC822 /* 10_PotentialBenifits@2x.m4v in Resources */,
 				80CBB0E81C0CE07600E50D06 /* howstudyworks_intro.html in Resources */,
 				80CBB08A1C0CD9FA00E50D06 /* Sage_Bionetworks.jpg in Resources */,
-				80CBB0821C0CD9FA00E50D06 /* lifemap.jpg in Resources */,
 				A78116741A96BC9400CEC822 /* 12_IssuesToConside2@2x.m4v in Resources */,
 				A78116711A96BC9400CEC822 /* 02_SensorData_to_DataGathering@2x.m4v in Resources */,
 				80CBB0761C0CD9FA00E50D06 /* consent_section_PD.css in Resources */,
 				80CBB07E1C0CD9FA00E50D06 /* institution.png in Resources */,
 				F584909A19E892700091A640 /* Intro.mp4 in Resources */,
-				80CBB0B51C0CDFE000E50D06 /* 15sharing_rsch.html in Resources */,
-				80CBB0B21C0CDFDC00E50D06 /* 15privacy_risk.html in Resources */,
 				80CBB0D31C0CE01200E50D06 /* AboutStudy.html in Resources */,
 				80CBB0791C0CD9FA00E50D06 /* disease_information_top.png in Resources */,
 				80CBB07F1C0CD9FA00E50D06 /* Intro_section_PD.css in Resources */,
 				80CBB08D1C0CD9FA00E50D06 /* treatment_top.png in Resources */,
 				A781167B1A96BC9400CEC822 /* 12_IssuesToConside2@3x.m4v in Resources */,
-				80CBB0E51C0CE07100E50D06 /* howstudyworks.html in Resources */,
 				80CBB0E21C0CE06500E50D06 /* feedback_intro.html in Resources */,
-				80CBB0D91C0CE03600E50D06 /* consent.pdf in Resources */,
-				80CBB0AC1C0CDFCD00E50D06 /* 13issues_survey.html in Resources */,
 				A78116781A96BC9400CEC822 /* 02_SensorData_to_DataGathering@3x.m4v in Resources */,
-				80CBB0C11C0CDFF600E50D06 /* 4sensordata.html in Resources */,
 				80CBB1031C0CE10800E50D06 /* consent.pdf in Resources */,
-				80CBB0BB1C0CDFED00E50D06 /* 2quiz_headsup.html in Resources */,
 				A78116751A96BC9400CEC822 /* 13_RiskToPrivacy@2x.m4v in Resources */,
 				80CBB0F71C0CE0C100E50D06 /* PrivacyPolicy.html in Resources */,
 				80CBB0801C0CD9FA00E50D06 /* Learn_section_PD.css in Resources */,
@@ -873,14 +794,9 @@
 				80CBB0851C0CD9FA00E50D06 /* online_resources_top.png in Resources */,
 				80CBB0DC1C0CE04100E50D06 /* consentvideo_intro.html in Resources */,
 				A781167A1A96BC9400CEC822 /* 11_IssuesToConsider1@3x.m4v in Resources */,
-				80CBB0AF1C0CDFD100E50D06 /* 14issues_mood.html in Resources */,
 				A78116731A96BC9400CEC822 /* 11_IssuesToConsider1@2x.m4v in Resources */,
 				CFC2D2E819A5417D00170E69 /* Images.xcassets in Resources */,
-				80CBB0D01C0CE00C00E50D06 /* 9study_survey.html in Resources */,
-				80CBB0CD1C0CE00800E50D06 /* 8time.html in Resources */,
-				80CBB0CA1C0CE00400E50D06 /* 7datause.html in Resources */,
 				80CBB0EB1C0CE08700E50D06 /* learnmore_overview.html in Resources */,
-				80CBB0B81C0CDFE800E50D06 /* 1welcome.html in Resources */,
 				80CBB0EE1C0CE09000E50D06 /* lifewithPD.html in Resources */,
 				80CBB0DF1C0CE05000E50D06 /* EligibleToParticipate.html in Resources */,
 			);
@@ -944,134 +860,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		80CBB09A1C0CDFBD00E50D06 /* 10study_task.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0991C0CDFBD00E50D06 /* Base */,
-			);
-			name = 10study_task.html;
-			sourceTree = "<group>";
-		};
-		80CBB0A81C0CDFC200E50D06 /* 11withdrawing.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0A71C0CDFC200E50D06 /* Base */,
-			);
-			name = 11withdrawing.html;
-			sourceTree = "<group>";
-		};
-		80CBB0AB1C0CDFC900E50D06 /* 12potentialbenefits1.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0AA1C0CDFC900E50D06 /* Base */,
-			);
-			name = 12potentialbenefits1.html;
-			sourceTree = "<group>";
-		};
-		80CBB0AE1C0CDFCD00E50D06 /* 13issues_survey.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0AD1C0CDFCD00E50D06 /* Base */,
-			);
-			name = 13issues_survey.html;
-			sourceTree = "<group>";
-		};
-		80CBB0B11C0CDFD100E50D06 /* 14issues_mood.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0B01C0CDFD100E50D06 /* Base */,
-			);
-			name = 14issues_mood.html;
-			sourceTree = "<group>";
-		};
-		80CBB0B41C0CDFDC00E50D06 /* 15privacy_risk.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0B31C0CDFDC00E50D06 /* Base */,
-			);
-			name = 15privacy_risk.html;
-			sourceTree = "<group>";
-		};
-		80CBB0B71C0CDFE000E50D06 /* 15sharing_rsch.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0B61C0CDFE000E50D06 /* Base */,
-			);
-			name = 15sharing_rsch.html;
-			sourceTree = "<group>";
-		};
-		80CBB0BA1C0CDFE800E50D06 /* 1welcome.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0B91C0CDFE800E50D06 /* Base */,
-			);
-			name = 1welcome.html;
-			sourceTree = "<group>";
-		};
-		80CBB0BD1C0CDFED00E50D06 /* 2quiz_headsup.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0BC1C0CDFED00E50D06 /* Base */,
-			);
-			name = 2quiz_headsup.html;
-			sourceTree = "<group>";
-		};
-		80CBB0C01C0CDFF200E50D06 /* 3activities.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0BF1C0CDFF200E50D06 /* Base */,
-			);
-			name = 3activities.html;
-			sourceTree = "<group>";
-		};
-		80CBB0C31C0CDFF600E50D06 /* 4sensordata.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0C21C0CDFF600E50D06 /* Base */,
-			);
-			name = 4sensordata.html;
-			sourceTree = "<group>";
-		};
-		80CBB0C61C0CDFFB00E50D06 /* 5dataprocessing.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0C51C0CDFFB00E50D06 /* Base */,
-			);
-			name = 5dataprocessing.html;
-			sourceTree = "<group>";
-		};
-		80CBB0C91C0CDFFF00E50D06 /* 6protectingdata.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0C81C0CDFFF00E50D06 /* Base */,
-			);
-			name = 6protectingdata.html;
-			sourceTree = "<group>";
-		};
-		80CBB0CC1C0CE00400E50D06 /* 7datause.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0CB1C0CE00400E50D06 /* Base */,
-			);
-			name = 7datause.html;
-			sourceTree = "<group>";
-		};
-		80CBB0CF1C0CE00800E50D06 /* 8time.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0CE1C0CE00800E50D06 /* Base */,
-			);
-			name = 8time.html;
-			sourceTree = "<group>";
-		};
-		80CBB0D21C0CE00C00E50D06 /* 9study_survey.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0D11C0CE00C00E50D06 /* Base */,
-			);
-			name = 9study_survey.html;
-			sourceTree = "<group>";
-		};
 		80CBB0D51C0CE01200E50D06 /* AboutStudy.html */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -1086,14 +874,6 @@
 				80CBB0D71C0CE01700E50D06 /* Base */,
 			);
 			name = AboutStudy_intro.html;
-			sourceTree = "<group>";
-		};
-		80CBB0DB1C0CE03600E50D06 /* consent.pdf */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0DA1C0CE03600E50D06 /* Base */,
-			);
-			name = consent.pdf;
 			sourceTree = "<group>";
 		};
 		80CBB0DE1C0CE04100E50D06 /* consentvideo_intro.html */ = {
@@ -1118,14 +898,6 @@
 				80CBB0E31C0CE06500E50D06 /* Base */,
 			);
 			name = feedback_intro.html;
-			sourceTree = "<group>";
-		};
-		80CBB0E71C0CE07100E50D06 /* howstudyworks.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0E61C0CE07100E50D06 /* Base */,
-			);
-			name = howstudyworks.html;
 			sourceTree = "<group>";
 		};
 		80CBB0EA1C0CE07600E50D06 /* howstudyworks_intro.html */ = {
