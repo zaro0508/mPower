@@ -13,3 +13,12 @@
 [submodule "mPowerSDK"]
 	path = mPowerSDK
 	url = https://github.com/Sage-Bionetworks/mPowerSDK.git
+[submodule "BridgeAppSDK"]
+	path = BridgeAppSDK
+	url = https://github.com/Sage-Bionetworks/BridgeAppSDK.git
+[submodule "ZipZap"]
+	path = ZipZap
+	url = https://github.com/pixelglow/ZipZap.git
+[submodule "CMSSupport"]
+	path = CMSSupport
+	url = https://github.com/Sage-Bionetworks/CMSSupport.git

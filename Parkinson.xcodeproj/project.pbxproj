@@ -15,43 +15,22 @@
 		74B713F31AC0722E00FE2553 /* ResearchKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 743AD0D81ABE2DE40071C218 /* ResearchKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		74B713F71AC0722E00FE2553 /* APCAppCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 743AD0CC1ABE2DE40071C218 /* APCAppCore.framework */; };
 		74B713F81AC0722E00FE2553 /* APCAppCore.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 743AD0CC1ABE2DE40071C218 /* APCAppCore.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		80CBB0741C0CD9FA00E50D06 /* asthma_document.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0461C0CD9FA00E50D06 /* asthma_document.png */; };
 		80CBB0761C0CD9FA00E50D06 /* consent_section_PD.css in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0481C0CD9FA00E50D06 /* consent_section_PD.css */; };
-		80CBB0781C0CD9FA00E50D06 /* disease_information_top.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB04A1C0CD9FA00E50D06 /* disease_information_top.jpg */; };
 		80CBB0791C0CD9FA00E50D06 /* disease_information_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB04B1C0CD9FA00E50D06 /* disease_information_top.png */; };
 		80CBB07E1C0CD9FA00E50D06 /* institution.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0501C0CD9FA00E50D06 /* institution.png */; };
 		80CBB07F1C0CD9FA00E50D06 /* Intro_section_PD.css in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0511C0CD9FA00E50D06 /* Intro_section_PD.css */; };
 		80CBB0801C0CD9FA00E50D06 /* Learn_section_PD.css in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0521C0CD9FA00E50D06 /* Learn_section_PD.css */; };
-		80CBB0821C0CD9FA00E50D06 /* lifemap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0541C0CD9FA00E50D06 /* lifemap.jpg */; };
 		80CBB0851C0CD9FA00E50D06 /* online_resources_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0571C0CD9FA00E50D06 /* online_resources_top.png */; };
 		80CBB0871C0CD9FA00E50D06 /* PDrochester.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0591C0CD9FA00E50D06 /* PDrochester.jpg */; };
 		80CBB0881C0CD9FA00E50D06 /* PDvideo_cover.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB05A1C0CD9FA00E50D06 /* PDvideo_cover.PNG */; };
 		80CBB08A1C0CD9FA00E50D06 /* Sage_Bionetworks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB05C1C0CD9FA00E50D06 /* Sage_Bionetworks.jpg */; };
 		80CBB08C1C0CD9FA00E50D06 /* symptoms_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB05E1C0CD9FA00E50D06 /* symptoms_top.png */; };
 		80CBB08D1C0CD9FA00E50D06 /* treatment_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB05F1C0CD9FA00E50D06 /* treatment_top.png */; };
-		80CBB0981C0CDFBD00E50D06 /* 10study_task.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB09A1C0CDFBD00E50D06 /* 10study_task.html */; };
-		80CBB0A61C0CDFC200E50D06 /* 11withdrawing.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0A81C0CDFC200E50D06 /* 11withdrawing.html */; };
-		80CBB0A91C0CDFC900E50D06 /* 12potentialbenefits1.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0AB1C0CDFC900E50D06 /* 12potentialbenefits1.html */; };
-		80CBB0AC1C0CDFCD00E50D06 /* 13issues_survey.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0AE1C0CDFCD00E50D06 /* 13issues_survey.html */; };
-		80CBB0AF1C0CDFD100E50D06 /* 14issues_mood.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0B11C0CDFD100E50D06 /* 14issues_mood.html */; };
-		80CBB0B21C0CDFDC00E50D06 /* 15privacy_risk.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0B41C0CDFDC00E50D06 /* 15privacy_risk.html */; };
-		80CBB0B51C0CDFE000E50D06 /* 15sharing_rsch.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0B71C0CDFE000E50D06 /* 15sharing_rsch.html */; };
-		80CBB0B81C0CDFE800E50D06 /* 1welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0BA1C0CDFE800E50D06 /* 1welcome.html */; };
-		80CBB0BB1C0CDFED00E50D06 /* 2quiz_headsup.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0BD1C0CDFED00E50D06 /* 2quiz_headsup.html */; };
-		80CBB0BE1C0CDFF200E50D06 /* 3activities.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0C01C0CDFF200E50D06 /* 3activities.html */; };
-		80CBB0C11C0CDFF600E50D06 /* 4sensordata.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0C31C0CDFF600E50D06 /* 4sensordata.html */; };
-		80CBB0C41C0CDFFB00E50D06 /* 5dataprocessing.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0C61C0CDFFB00E50D06 /* 5dataprocessing.html */; };
-		80CBB0C71C0CDFFF00E50D06 /* 6protectingdata.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0C91C0CDFFF00E50D06 /* 6protectingdata.html */; };
-		80CBB0CA1C0CE00400E50D06 /* 7datause.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0CC1C0CE00400E50D06 /* 7datause.html */; };
-		80CBB0CD1C0CE00800E50D06 /* 8time.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0CF1C0CE00800E50D06 /* 8time.html */; };
-		80CBB0D01C0CE00C00E50D06 /* 9study_survey.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0D21C0CE00C00E50D06 /* 9study_survey.html */; };
 		80CBB0D31C0CE01200E50D06 /* AboutStudy.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0D51C0CE01200E50D06 /* AboutStudy.html */; };
 		80CBB0D61C0CE01700E50D06 /* AboutStudy_intro.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0D81C0CE01700E50D06 /* AboutStudy_intro.html */; };
-		80CBB0D91C0CE03600E50D06 /* consent.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0DB1C0CE03600E50D06 /* consent.pdf */; };
 		80CBB0DC1C0CE04100E50D06 /* consentvideo_intro.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0DE1C0CE04100E50D06 /* consentvideo_intro.html */; };
 		80CBB0DF1C0CE05000E50D06 /* EligibleToParticipate.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0E11C0CE05000E50D06 /* EligibleToParticipate.html */; };
 		80CBB0E21C0CE06500E50D06 /* feedback_intro.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0E41C0CE06500E50D06 /* feedback_intro.html */; };
-		80CBB0E51C0CE07100E50D06 /* howstudyworks.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0E71C0CE07100E50D06 /* howstudyworks.html */; };
 		80CBB0E81C0CE07600E50D06 /* howstudyworks_intro.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0EA1C0CE07600E50D06 /* howstudyworks_intro.html */; };
 		80CBB0EB1C0CE08700E50D06 /* learnmore_overview.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0ED1C0CE08700E50D06 /* learnmore_overview.html */; };
 		80CBB0EE1C0CE09000E50D06 /* lifewithPD.html in Resources */ = {isa = PBXBuildFile; fileRef = 80CBB0F01C0CE09000E50D06 /* lifewithPD.html */; };
@@ -87,6 +66,15 @@
 		F5DCAD3E19D088330096DEC0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5DCAD3D19D088330096DEC0 /* LaunchScreen.xib */; };
 		F5F32C7C19D0D4C1007F9015 /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFA2ABB519A7C229000DB961 /* HealthKit.framework */; };
 		FF4C352A1C24D24800B664B5 /* APHFinalAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FF4C35291C24D24800B664B5 /* APHFinalAppDelegate.m */; };
+		FFC6D8D21CF40D0A00732183 /* BridgeInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = FFC6D8D11CF40D0A00732183 /* BridgeInfo.plist */; };
+		FFC6D9591CF40FD600732183 /* BridgeAppSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFC6D93E1CF40F8B00732183 /* BridgeAppSDK.framework */; };
+		FFC6D95A1CF40FD600732183 /* BridgeAppSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = FFC6D93E1CF40F8B00732183 /* BridgeAppSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		FFC6D95D1CF40FEA00732183 /* ZipZap.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFC6D94C1CF40F9900732183 /* ZipZap.framework */; };
+		FFC6D95E1CF40FEA00732183 /* ZipZap.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = FFC6D94C1CF40F9900732183 /* ZipZap.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		FFC6D9611CF40FFF00732183 /* openssl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFC6D92E1CF40F7B00732183 /* openssl.framework */; };
+		FFC6D9621CF40FFF00732183 /* openssl.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = FFC6D92E1CF40F7B00732183 /* openssl.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		FFC6D9651CF4100D00732183 /* CMSSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFC6D9201CF40F6F00732183 /* CMSSupport.framework */; };
+		FFC6D9661CF4100D00732183 /* CMSSupport.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = FFC6D9201CF40F6F00732183 /* CMSSupport.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		FFFA24871C23679600727DA8 /* mPowerSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFFA245F1C235BE800727DA8 /* mPowerSDK.framework */; };
 		FFFA24881C23679600727DA8 /* mPowerSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = FFFA245F1C235BE800727DA8 /* mPowerSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
@@ -211,6 +199,132 @@
 			remoteGlobalIDString = F5179B2819D09128001DCCB7;
 			remoteInfo = APCAppCore;
 		};
+		FFC6D91F1CF40F6F00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D90F1CF40F6F00732183 /* CMSSupport.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 601E8A421B2B58F000BB02FB;
+			remoteInfo = CMSSupport;
+		};
+		FFC6D9211CF40F6F00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D90F1CF40F6F00732183 /* CMSSupport.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 601E8A4D1B2B58F000BB02FB;
+			remoteInfo = CMSSupportTests;
+		};
+		FFC6D92D1CF40F7B00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9271CF40F7B00732183 /* openssl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 60674AE31B30A93900A1917D;
+			remoteInfo = openssl;
+		};
+		FFC6D92F1CF40F7B00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9271CF40F7B00732183 /* openssl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 60674AEE1B30A93900A1917D;
+			remoteInfo = opensslTests;
+		};
+		FFC6D93B1CF40F8B00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9311CF40F8A00732183 /* BridgeAppSDK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 161479C01BD6CE8F0099A068;
+			remoteInfo = BridgeAppSDKSample;
+		};
+		FFC6D93D1CF40F8B00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9311CF40F8A00732183 /* BridgeAppSDK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 801040B21C5A843D00D26E19;
+			remoteInfo = BridgeAppSDK;
+		};
+		FFC6D93F1CF40F8B00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9311CF40F8A00732183 /* BridgeAppSDK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 801040BB1C5A843D00D26E19;
+			remoteInfo = BridgeAppSDKTests;
+		};
+		FFC6D94B1CF40F9900732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D87BA1F81B3D6DEA00ED7EB3;
+			remoteInfo = "ZipZap (iOS Framework)";
+		};
+		FFC6D94D1CF40F9900732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D899CFB0162C5EEB00112F49;
+			remoteInfo = "ZipZap (iOS Static Library)";
+		};
+		FFC6D94F1CF40F9900732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D8D140D31B423B1100C411B0;
+			remoteInfo = "ZipZap (OS X Framework)";
+		};
+		FFC6D9511CF40F9900732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D899CF82162C5EC100112F49;
+			remoteInfo = "ZipZap (OS X Static Library)";
+		};
+		FFC6D9531CF40F9900732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BF8624CB1BB7495200C12EEE;
+			remoteInfo = "ZipZap (tvOS Framework)";
+		};
+		FFC6D9551CF40F9900732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BF8624EF1BB74B1F00C12EEE;
+			remoteInfo = "ZipZap (tvOS Static Library)";
+		};
+		FFC6D9571CF40F9900732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D899CF96162C5EC100112F49;
+			remoteInfo = ZipZapTests;
+		};
+		FFC6D95B1CF40FD600732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9311CF40F8A00732183 /* BridgeAppSDK.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 801040B11C5A843D00D26E19;
+			remoteInfo = BridgeAppSDK;
+		};
+		FFC6D95F1CF40FEA00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = D87BA1F71B3D6DEA00ED7EB3;
+			remoteInfo = "ZipZap (iOS Framework)";
+		};
+		FFC6D9631CF40FFF00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D9271CF40F7B00732183 /* openssl.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 60674AE21B30A93900A1917D;
+			remoteInfo = openssl;
+		};
+		FFC6D9671CF4100D00732183 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFC6D90F1CF40F6F00732183 /* CMSSupport.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 601E8A411B2B58F000BB02FB;
+			remoteInfo = CMSSupport;
+		};
 		FFFA245E1C235BE800727DA8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = FFFA24591C235BE800727DA8 /* mPowerSDK.xcodeproj */;
@@ -241,9 +355,13 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				FFC6D9661CF4100D00732183 /* CMSSupport.framework in Embed Frameworks */,
+				FFC6D95E1CF40FEA00732183 /* ZipZap.framework in Embed Frameworks */,
 				74B713F31AC0722E00FE2553 /* ResearchKit.framework in Embed Frameworks */,
+				FFC6D95A1CF40FD600732183 /* BridgeAppSDK.framework in Embed Frameworks */,
 				74B713EC1AC0722D00FE2553 /* BridgeSDK.framework in Embed Frameworks */,
 				74B713F81AC0722E00FE2553 /* APCAppCore.framework in Embed Frameworks */,
+				FFC6D9621CF40FFF00732183 /* openssl.framework in Embed Frameworks */,
 				FFFA24881C23679600727DA8 /* mPowerSDK.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
@@ -260,43 +378,22 @@
 		747F5B671ABE2D3200197B68 /* APCAppCore.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = APCAppCore.xcodeproj; path = ../AppCore/APCAppCore/APCAppCore.xcodeproj; sourceTree = "<group>"; };
 		747F5B721ABE2D3E00197B68 /* ResearchKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ResearchKit.xcodeproj; path = ../researchkit/ResearchKit.xcodeproj; sourceTree = "<group>"; };
 		74B713981ABF04B900FE2553 /* BridgeSDK.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = BridgeSDK.xcodeproj; path = BridgeSDK/BridgeSDK.xcodeproj; sourceTree = SOURCE_ROOT; };
-		80CBB0461C0CD9FA00E50D06 /* asthma_document.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = asthma_document.png; sourceTree = "<group>"; };
 		80CBB0481C0CD9FA00E50D06 /* consent_section_PD.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = consent_section_PD.css; sourceTree = "<group>"; };
-		80CBB04A1C0CD9FA00E50D06 /* disease_information_top.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = disease_information_top.jpg; sourceTree = "<group>"; };
 		80CBB04B1C0CD9FA00E50D06 /* disease_information_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disease_information_top.png; sourceTree = "<group>"; };
 		80CBB0501C0CD9FA00E50D06 /* institution.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = institution.png; sourceTree = "<group>"; };
 		80CBB0511C0CD9FA00E50D06 /* Intro_section_PD.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = Intro_section_PD.css; sourceTree = "<group>"; };
 		80CBB0521C0CD9FA00E50D06 /* Learn_section_PD.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = Learn_section_PD.css; sourceTree = "<group>"; };
-		80CBB0541C0CD9FA00E50D06 /* lifemap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lifemap.jpg; sourceTree = "<group>"; };
 		80CBB0571C0CD9FA00E50D06 /* online_resources_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = online_resources_top.png; sourceTree = "<group>"; };
 		80CBB0591C0CD9FA00E50D06 /* PDrochester.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PDrochester.jpg; sourceTree = "<group>"; };
 		80CBB05A1C0CD9FA00E50D06 /* PDvideo_cover.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PDvideo_cover.PNG; sourceTree = "<group>"; };
 		80CBB05C1C0CD9FA00E50D06 /* Sage_Bionetworks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sage_Bionetworks.jpg; sourceTree = "<group>"; };
 		80CBB05E1C0CD9FA00E50D06 /* symptoms_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = symptoms_top.png; sourceTree = "<group>"; };
 		80CBB05F1C0CD9FA00E50D06 /* treatment_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = treatment_top.png; sourceTree = "<group>"; };
-		80CBB0991C0CDFBD00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/10study_task.html; sourceTree = "<group>"; };
-		80CBB0A71C0CDFC200E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/11withdrawing.html; sourceTree = "<group>"; };
-		80CBB0AA1C0CDFC900E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/12potentialbenefits1.html; sourceTree = "<group>"; };
-		80CBB0AD1C0CDFCD00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/13issues_survey.html; sourceTree = "<group>"; };
-		80CBB0B01C0CDFD100E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/14issues_mood.html; sourceTree = "<group>"; };
-		80CBB0B31C0CDFDC00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/15privacy_risk.html; sourceTree = "<group>"; };
-		80CBB0B61C0CDFE000E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/15sharing_rsch.html; sourceTree = "<group>"; };
-		80CBB0B91C0CDFE800E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/1welcome.html; sourceTree = "<group>"; };
-		80CBB0BC1C0CDFED00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/2quiz_headsup.html; sourceTree = "<group>"; };
-		80CBB0BF1C0CDFF200E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/3activities.html; sourceTree = "<group>"; };
-		80CBB0C21C0CDFF600E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/4sensordata.html; sourceTree = "<group>"; };
-		80CBB0C51C0CDFFB00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/5dataprocessing.html; sourceTree = "<group>"; };
-		80CBB0C81C0CDFFF00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/6protectingdata.html; sourceTree = "<group>"; };
-		80CBB0CB1C0CE00400E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/7datause.html; sourceTree = "<group>"; };
-		80CBB0CE1C0CE00800E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/8time.html; sourceTree = "<group>"; };
-		80CBB0D11C0CE00C00E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/9study_survey.html; sourceTree = "<group>"; };
 		80CBB0D41C0CE01200E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/AboutStudy.html; sourceTree = "<group>"; };
 		80CBB0D71C0CE01700E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/AboutStudy_intro.html; sourceTree = "<group>"; };
-		80CBB0DA1C0CE03600E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Base; path = Base.lproj/consent.pdf; sourceTree = "<group>"; };
 		80CBB0DD1C0CE04100E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/consentvideo_intro.html; sourceTree = "<group>"; };
 		80CBB0E01C0CE05000E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/EligibleToParticipate.html; sourceTree = "<group>"; };
 		80CBB0E31C0CE06500E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/feedback_intro.html; sourceTree = "<group>"; };
-		80CBB0E61C0CE07100E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/howstudyworks.html; sourceTree = "<group>"; };
 		80CBB0E91C0CE07600E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/howstudyworks_intro.html; sourceTree = "<group>"; };
 		80CBB0EC1C0CE08700E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/learnmore_overview.html; sourceTree = "<group>"; };
 		80CBB0EF1C0CE09000E50D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/lifewithPD.html; sourceTree = "<group>"; };
@@ -336,6 +433,11 @@
 		F5DCAD3D19D088330096DEC0 /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 		FF4C35281C24D24800B664B5 /* APHFinalAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APHFinalAppDelegate.h; sourceTree = "<group>"; };
 		FF4C35291C24D24800B664B5 /* APHFinalAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APHFinalAppDelegate.m; sourceTree = "<group>"; };
+		FFC6D8D11CF40D0A00732183 /* BridgeInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BridgeInfo.plist; sourceTree = "<group>"; };
+		FFC6D90F1CF40F6F00732183 /* CMSSupport.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CMSSupport.xcodeproj; path = CMSSupport/CMSSupport.xcodeproj; sourceTree = SOURCE_ROOT; };
+		FFC6D9271CF40F7B00732183 /* openssl.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = openssl.xcodeproj; path = CMSSupport/openssl/openssl.xcodeproj; sourceTree = SOURCE_ROOT; };
+		FFC6D9311CF40F8A00732183 /* BridgeAppSDK.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = BridgeAppSDK.xcodeproj; path = BridgeAppSDK/BridgeAppSDK.xcodeproj; sourceTree = SOURCE_ROOT; };
+		FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ZipZap.xcodeproj; path = ZipZap/ZipZap.xcodeproj; sourceTree = SOURCE_ROOT; };
 		FFFA24591C235BE800727DA8 /* mPowerSDK.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = mPowerSDK.xcodeproj; path = mPowerSDK/mPowerSDK.xcodeproj; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -345,10 +447,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				744996AD1AF000D800E0D7E7 /* libPDScores.a in Frameworks */,
+				FFC6D9611CF40FFF00732183 /* openssl.framework in Frameworks */,
 				5B18CEF71A2D3A57001A905E /* MapKit.framework in Frameworks */,
+				FFC6D9651CF4100D00732183 /* CMSSupport.framework in Frameworks */,
 				74B713F71AC0722E00FE2553 /* APCAppCore.framework in Frameworks */,
-				FFFA24871C23679600727DA8 /* mPowerSDK.framework in Frameworks */,
+				FFC6D95D1CF40FEA00732183 /* ZipZap.framework in Frameworks */,
 				74B713EB1AC0722D00FE2553 /* BridgeSDK.framework in Frameworks */,
+				FFC6D9591CF40FD600732183 /* BridgeAppSDK.framework in Frameworks */,
+				FFFA24871C23679600727DA8 /* mPowerSDK.framework in Frameworks */,
 				F5F32C7C19D0D4C1007F9015 /* HealthKit.framework in Frameworks */,
 				CFA2ABC019A7C3EB000DB961 /* AVFoundation.framework in Frameworks */,
 				CFA2ABBE19A7C3C2000DB961 /* Security.framework in Frameworks */,
@@ -439,39 +545,18 @@
 		80CBB0331C0CD9F900E50D06 /* HTMLContent */ = {
 			isa = PBXGroup;
 			children = (
-				80CBB09A1C0CDFBD00E50D06 /* 10study_task.html */,
-				80CBB0A81C0CDFC200E50D06 /* 11withdrawing.html */,
-				80CBB0AB1C0CDFC900E50D06 /* 12potentialbenefits1.html */,
-				80CBB0AE1C0CDFCD00E50D06 /* 13issues_survey.html */,
-				80CBB0B11C0CDFD100E50D06 /* 14issues_mood.html */,
-				80CBB0B41C0CDFDC00E50D06 /* 15privacy_risk.html */,
-				80CBB0B71C0CDFE000E50D06 /* 15sharing_rsch.html */,
-				80CBB0BA1C0CDFE800E50D06 /* 1welcome.html */,
-				80CBB0BD1C0CDFED00E50D06 /* 2quiz_headsup.html */,
-				80CBB0C01C0CDFF200E50D06 /* 3activities.html */,
-				80CBB0C31C0CDFF600E50D06 /* 4sensordata.html */,
-				80CBB0C61C0CDFFB00E50D06 /* 5dataprocessing.html */,
-				80CBB0C91C0CDFFF00E50D06 /* 6protectingdata.html */,
-				80CBB0CC1C0CE00400E50D06 /* 7datause.html */,
-				80CBB0CF1C0CE00800E50D06 /* 8time.html */,
-				80CBB0D21C0CE00C00E50D06 /* 9study_survey.html */,
 				80CBB0D51C0CE01200E50D06 /* AboutStudy.html */,
 				80CBB0D81C0CE01700E50D06 /* AboutStudy_intro.html */,
-				80CBB0461C0CD9FA00E50D06 /* asthma_document.png */,
-				80CBB0DB1C0CE03600E50D06 /* consent.pdf */,
 				80CBB0481C0CD9FA00E50D06 /* consent_section_PD.css */,
 				80CBB0DE1C0CE04100E50D06 /* consentvideo_intro.html */,
-				80CBB04A1C0CD9FA00E50D06 /* disease_information_top.jpg */,
 				80CBB04B1C0CD9FA00E50D06 /* disease_information_top.png */,
 				80CBB0E11C0CE05000E50D06 /* EligibleToParticipate.html */,
 				80CBB0E41C0CE06500E50D06 /* feedback_intro.html */,
-				80CBB0E71C0CE07100E50D06 /* howstudyworks.html */,
 				80CBB0EA1C0CE07600E50D06 /* howstudyworks_intro.html */,
 				80CBB0501C0CD9FA00E50D06 /* institution.png */,
 				80CBB0511C0CD9FA00E50D06 /* Intro_section_PD.css */,
 				80CBB0521C0CD9FA00E50D06 /* Learn_section_PD.css */,
 				80CBB0ED1C0CE08700E50D06 /* learnmore_overview.html */,
-				80CBB0541C0CD9FA00E50D06 /* lifemap.jpg */,
 				80CBB0F01C0CE09000E50D06 /* lifewithPD.html */,
 				80CBB0F31C0CE0A000E50D06 /* online_resources.html */,
 				80CBB0571C0CD9FA00E50D06 /* online_resources_top.png */,
@@ -537,10 +622,14 @@
 			isa = PBXGroup;
 			children = (
 				FFFA24591C235BE800727DA8 /* mPowerSDK.xcodeproj */,
+				FFC6D9311CF40F8A00732183 /* BridgeAppSDK.xcodeproj */,
+				FFC6D9271CF40F7B00732183 /* openssl.xcodeproj */,
+				FFC6D90F1CF40F6F00732183 /* CMSSupport.xcodeproj */,
 				744996A31AF0009000E0D7E7 /* PDScores.xcodeproj */,
 				74B713981ABF04B900FE2553 /* BridgeSDK.xcodeproj */,
 				747F5B721ABE2D3E00197B68 /* ResearchKit.xcodeproj */,
 				747F5B671ABE2D3200197B68 /* APCAppCore.xcodeproj */,
+				FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */,
 				5B18CEF61A2D3A56001A905E /* MapKit.framework */,
 				CFA2ABBF19A7C3EB000DB961 /* AVFoundation.framework */,
 				CFA2ABBD19A7C3C2000DB961 /* Security.framework */,
@@ -583,6 +672,7 @@
 		CFC2D2DA19A5417D00170E69 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FFC6D8D11CF40D0A00732183 /* BridgeInfo.plist */,
 				F5241CA819AEA5110098A4DF /* Parkinson.entitlements */,
 				CFC2D2DB19A5417D00170E69 /* Info.plist */,
 				CFC2D2DC19A5417D00170E69 /* main.m */,
@@ -618,6 +708,48 @@
 			path = Startup;
 			sourceTree = "<group>";
 		};
+		FFC6D9101CF40F6F00732183 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FFC6D9201CF40F6F00732183 /* CMSSupport.framework */,
+				FFC6D9221CF40F6F00732183 /* CMSSupportTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FFC6D9281CF40F7B00732183 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FFC6D92E1CF40F7B00732183 /* openssl.framework */,
+				FFC6D9301CF40F7B00732183 /* opensslTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FFC6D9321CF40F8A00732183 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FFC6D93C1CF40F8B00732183 /* BridgeAppSDKSample.app */,
+				FFC6D93E1CF40F8B00732183 /* BridgeAppSDK.framework */,
+				FFC6D9401CF40F8B00732183 /* BridgeAppSDKTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FFC6D9421CF40F9900732183 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FFC6D94C1CF40F9900732183 /* ZipZap.framework */,
+				FFC6D94E1CF40F9900732183 /* libZipZap.a */,
+				FFC6D9501CF40F9900732183 /* ZipZap.framework */,
+				FFC6D9521CF40F9900732183 /* libZipZap.a */,
+				FFC6D9541CF40F9900732183 /* ZipZap.framework */,
+				FFC6D9561CF40F9900732183 /* libZipZap.a */,
+				FFC6D9581CF40F9900732183 /* ZipZapTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		FFFA245A1C235BE800727DA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -650,6 +782,10 @@
 				74B713F51AC0722E00FE2553 /* PBXTargetDependency */,
 				74B713FA1AC0722E00FE2553 /* PBXTargetDependency */,
 				FFFA248A1C23679600727DA8 /* PBXTargetDependency */,
+				FFC6D95C1CF40FD600732183 /* PBXTargetDependency */,
+				FFC6D9601CF40FEA00732183 /* PBXTargetDependency */,
+				FFC6D9641CF40FFF00732183 /* PBXTargetDependency */,
+				FFC6D9681CF4100D00732183 /* PBXTargetDependency */,
 			);
 			name = Parkinson;
 			productName = Parkinson;
@@ -702,12 +838,24 @@
 					ProjectRef = 747F5B671ABE2D3200197B68 /* APCAppCore.xcodeproj */;
 				},
 				{
+					ProductGroup = FFC6D9321CF40F8A00732183 /* Products */;
+					ProjectRef = FFC6D9311CF40F8A00732183 /* BridgeAppSDK.xcodeproj */;
+				},
+				{
 					ProductGroup = 74B713991ABF04B900FE2553 /* Products */;
 					ProjectRef = 74B713981ABF04B900FE2553 /* BridgeSDK.xcodeproj */;
 				},
 				{
+					ProductGroup = FFC6D9101CF40F6F00732183 /* Products */;
+					ProjectRef = FFC6D90F1CF40F6F00732183 /* CMSSupport.xcodeproj */;
+				},
+				{
 					ProductGroup = FFFA245A1C235BE800727DA8 /* Products */;
 					ProjectRef = FFFA24591C235BE800727DA8 /* mPowerSDK.xcodeproj */;
+				},
+				{
+					ProductGroup = FFC6D9281CF40F7B00732183 /* Products */;
+					ProjectRef = FFC6D9271CF40F7B00732183 /* openssl.xcodeproj */;
 				},
 				{
 					ProductGroup = 744996A41AF0009000E0D7E7 /* Products */;
@@ -716,6 +864,10 @@
 				{
 					ProductGroup = 743AD0D11ABE2DE40071C218 /* Products */;
 					ProjectRef = 747F5B721ABE2D3E00197B68 /* ResearchKit.xcodeproj */;
+				},
+				{
+					ProductGroup = FFC6D9421CF40F9900732183 /* Products */;
+					ProjectRef = FFC6D9411CF40F9900732183 /* ZipZap.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -796,6 +948,104 @@
 			remoteRef = 74B713A51ABF04B900FE2553 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		FFC6D9201CF40F6F00732183 /* CMSSupport.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = CMSSupport.framework;
+			remoteRef = FFC6D91F1CF40F6F00732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D9221CF40F6F00732183 /* CMSSupportTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = CMSSupportTests.xctest;
+			remoteRef = FFC6D9211CF40F6F00732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D92E1CF40F7B00732183 /* openssl.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = openssl.framework;
+			remoteRef = FFC6D92D1CF40F7B00732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D9301CF40F7B00732183 /* opensslTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = opensslTests.xctest;
+			remoteRef = FFC6D92F1CF40F7B00732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D93C1CF40F8B00732183 /* BridgeAppSDKSample.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = BridgeAppSDKSample.app;
+			remoteRef = FFC6D93B1CF40F8B00732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D93E1CF40F8B00732183 /* BridgeAppSDK.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = BridgeAppSDK.framework;
+			remoteRef = FFC6D93D1CF40F8B00732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D9401CF40F8B00732183 /* BridgeAppSDKTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = BridgeAppSDKTests.xctest;
+			remoteRef = FFC6D93F1CF40F8B00732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D94C1CF40F9900732183 /* ZipZap.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = ZipZap.framework;
+			remoteRef = FFC6D94B1CF40F9900732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D94E1CF40F9900732183 /* libZipZap.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libZipZap.a;
+			remoteRef = FFC6D94D1CF40F9900732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D9501CF40F9900732183 /* ZipZap.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = ZipZap.framework;
+			remoteRef = FFC6D94F1CF40F9900732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D9521CF40F9900732183 /* libZipZap.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libZipZap.a;
+			remoteRef = FFC6D9511CF40F9900732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D9541CF40F9900732183 /* ZipZap.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = ZipZap.framework;
+			remoteRef = FFC6D9531CF40F9900732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D9561CF40F9900732183 /* libZipZap.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libZipZap.a;
+			remoteRef = FFC6D9551CF40F9900732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FFC6D9581CF40F9900732183 /* ZipZapTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = ZipZapTests.xctest;
+			remoteRef = FFC6D9571CF40F9900732183 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 		FFFA245F1C235BE800727DA8 /* mPowerSDK.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
@@ -817,47 +1067,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80CBB0981C0CDFBD00E50D06 /* 10study_task.html in Resources */,
 				A78116791A96BC9400CEC822 /* 10_PotentialBenifits@3x.m4v in Resources */,
-				80CBB0781C0CD9FA00E50D06 /* disease_information_top.jpg in Resources */,
-				80CBB0A61C0CDFC200E50D06 /* 11withdrawing.html in Resources */,
 				F5C1DC2019D22E6F006527EA /* Main.storyboard in Resources */,
 				A781167C1A96BC9400CEC822 /* 13_RiskToPrivacy@3x.m4v in Resources */,
 				80CBB0F11C0CE0A000E50D06 /* online_resources.html in Resources */,
-				80CBB0741C0CD9FA00E50D06 /* asthma_document.png in Resources */,
-				80CBB0BE1C0CDFF200E50D06 /* 3activities.html in Resources */,
 				80CBB0F41C0CE0B200E50D06 /* PD_fullconsent.html in Resources */,
-				80CBB0C41C0CDFFB00E50D06 /* 5dataprocessing.html in Resources */,
+				FFC6D8D21CF40D0A00732183 /* BridgeInfo.plist in Resources */,
 				80CBB08C1C0CD9FA00E50D06 /* symptoms_top.png in Resources */,
 				80CBB1001C0CE0E600E50D06 /* whoisrunning_intro.html in Resources */,
 				80CBB0FD1C0CE0E000E50D06 /* whoisrunning.html in Resources */,
-				80CBB0A91C0CDFC900E50D06 /* 12potentialbenefits1.html in Resources */,
-				80CBB0C71C0CDFFF00E50D06 /* 6protectingdata.html in Resources */,
 				A78116701A96BC9400CEC822 /* 01_Activities_to_SensorData@2x.m4v in Resources */,
 				A78116721A96BC9400CEC822 /* 10_PotentialBenifits@2x.m4v in Resources */,
 				80CBB0E81C0CE07600E50D06 /* howstudyworks_intro.html in Resources */,
 				80CBB08A1C0CD9FA00E50D06 /* Sage_Bionetworks.jpg in Resources */,
-				80CBB0821C0CD9FA00E50D06 /* lifemap.jpg in Resources */,
 				A78116741A96BC9400CEC822 /* 12_IssuesToConside2@2x.m4v in Resources */,
 				A78116711A96BC9400CEC822 /* 02_SensorData_to_DataGathering@2x.m4v in Resources */,
 				80CBB0761C0CD9FA00E50D06 /* consent_section_PD.css in Resources */,
 				80CBB07E1C0CD9FA00E50D06 /* institution.png in Resources */,
 				F584909A19E892700091A640 /* Intro.mp4 in Resources */,
-				80CBB0B51C0CDFE000E50D06 /* 15sharing_rsch.html in Resources */,
-				80CBB0B21C0CDFDC00E50D06 /* 15privacy_risk.html in Resources */,
 				80CBB0D31C0CE01200E50D06 /* AboutStudy.html in Resources */,
 				80CBB0791C0CD9FA00E50D06 /* disease_information_top.png in Resources */,
 				80CBB07F1C0CD9FA00E50D06 /* Intro_section_PD.css in Resources */,
 				80CBB08D1C0CD9FA00E50D06 /* treatment_top.png in Resources */,
 				A781167B1A96BC9400CEC822 /* 12_IssuesToConside2@3x.m4v in Resources */,
-				80CBB0E51C0CE07100E50D06 /* howstudyworks.html in Resources */,
 				80CBB0E21C0CE06500E50D06 /* feedback_intro.html in Resources */,
-				80CBB0D91C0CE03600E50D06 /* consent.pdf in Resources */,
-				80CBB0AC1C0CDFCD00E50D06 /* 13issues_survey.html in Resources */,
 				A78116781A96BC9400CEC822 /* 02_SensorData_to_DataGathering@3x.m4v in Resources */,
-				80CBB0C11C0CDFF600E50D06 /* 4sensordata.html in Resources */,
 				80CBB1031C0CE10800E50D06 /* consent.pdf in Resources */,
-				80CBB0BB1C0CDFED00E50D06 /* 2quiz_headsup.html in Resources */,
 				A78116751A96BC9400CEC822 /* 13_RiskToPrivacy@2x.m4v in Resources */,
 				80CBB0F71C0CE0C100E50D06 /* PrivacyPolicy.html in Resources */,
 				80CBB0801C0CD9FA00E50D06 /* Learn_section_PD.css in Resources */,
@@ -873,14 +1108,9 @@
 				80CBB0851C0CD9FA00E50D06 /* online_resources_top.png in Resources */,
 				80CBB0DC1C0CE04100E50D06 /* consentvideo_intro.html in Resources */,
 				A781167A1A96BC9400CEC822 /* 11_IssuesToConsider1@3x.m4v in Resources */,
-				80CBB0AF1C0CDFD100E50D06 /* 14issues_mood.html in Resources */,
 				A78116731A96BC9400CEC822 /* 11_IssuesToConsider1@2x.m4v in Resources */,
 				CFC2D2E819A5417D00170E69 /* Images.xcassets in Resources */,
-				80CBB0D01C0CE00C00E50D06 /* 9study_survey.html in Resources */,
-				80CBB0CD1C0CE00800E50D06 /* 8time.html in Resources */,
-				80CBB0CA1C0CE00400E50D06 /* 7datause.html in Resources */,
 				80CBB0EB1C0CE08700E50D06 /* learnmore_overview.html in Resources */,
-				80CBB0B81C0CDFE800E50D06 /* 1welcome.html in Resources */,
 				80CBB0EE1C0CE09000E50D06 /* lifewithPD.html in Resources */,
 				80CBB0DF1C0CE05000E50D06 /* EligibleToParticipate.html in Resources */,
 			);
@@ -936,6 +1166,26 @@
 			name = APCAppCore;
 			targetProxy = 74B713F91AC0722E00FE2553 /* PBXContainerItemProxy */;
 		};
+		FFC6D95C1CF40FD600732183 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = BridgeAppSDK;
+			targetProxy = FFC6D95B1CF40FD600732183 /* PBXContainerItemProxy */;
+		};
+		FFC6D9601CF40FEA00732183 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "ZipZap (iOS Framework)";
+			targetProxy = FFC6D95F1CF40FEA00732183 /* PBXContainerItemProxy */;
+		};
+		FFC6D9641CF40FFF00732183 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = openssl;
+			targetProxy = FFC6D9631CF40FFF00732183 /* PBXContainerItemProxy */;
+		};
+		FFC6D9681CF4100D00732183 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CMSSupport;
+			targetProxy = FFC6D9671CF4100D00732183 /* PBXContainerItemProxy */;
+		};
 		FFFA248A1C23679600727DA8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = mPowerSDK;
@@ -944,134 +1194,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		80CBB09A1C0CDFBD00E50D06 /* 10study_task.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0991C0CDFBD00E50D06 /* Base */,
-			);
-			name = 10study_task.html;
-			sourceTree = "<group>";
-		};
-		80CBB0A81C0CDFC200E50D06 /* 11withdrawing.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0A71C0CDFC200E50D06 /* Base */,
-			);
-			name = 11withdrawing.html;
-			sourceTree = "<group>";
-		};
-		80CBB0AB1C0CDFC900E50D06 /* 12potentialbenefits1.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0AA1C0CDFC900E50D06 /* Base */,
-			);
-			name = 12potentialbenefits1.html;
-			sourceTree = "<group>";
-		};
-		80CBB0AE1C0CDFCD00E50D06 /* 13issues_survey.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0AD1C0CDFCD00E50D06 /* Base */,
-			);
-			name = 13issues_survey.html;
-			sourceTree = "<group>";
-		};
-		80CBB0B11C0CDFD100E50D06 /* 14issues_mood.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0B01C0CDFD100E50D06 /* Base */,
-			);
-			name = 14issues_mood.html;
-			sourceTree = "<group>";
-		};
-		80CBB0B41C0CDFDC00E50D06 /* 15privacy_risk.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0B31C0CDFDC00E50D06 /* Base */,
-			);
-			name = 15privacy_risk.html;
-			sourceTree = "<group>";
-		};
-		80CBB0B71C0CDFE000E50D06 /* 15sharing_rsch.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0B61C0CDFE000E50D06 /* Base */,
-			);
-			name = 15sharing_rsch.html;
-			sourceTree = "<group>";
-		};
-		80CBB0BA1C0CDFE800E50D06 /* 1welcome.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0B91C0CDFE800E50D06 /* Base */,
-			);
-			name = 1welcome.html;
-			sourceTree = "<group>";
-		};
-		80CBB0BD1C0CDFED00E50D06 /* 2quiz_headsup.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0BC1C0CDFED00E50D06 /* Base */,
-			);
-			name = 2quiz_headsup.html;
-			sourceTree = "<group>";
-		};
-		80CBB0C01C0CDFF200E50D06 /* 3activities.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0BF1C0CDFF200E50D06 /* Base */,
-			);
-			name = 3activities.html;
-			sourceTree = "<group>";
-		};
-		80CBB0C31C0CDFF600E50D06 /* 4sensordata.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0C21C0CDFF600E50D06 /* Base */,
-			);
-			name = 4sensordata.html;
-			sourceTree = "<group>";
-		};
-		80CBB0C61C0CDFFB00E50D06 /* 5dataprocessing.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0C51C0CDFFB00E50D06 /* Base */,
-			);
-			name = 5dataprocessing.html;
-			sourceTree = "<group>";
-		};
-		80CBB0C91C0CDFFF00E50D06 /* 6protectingdata.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0C81C0CDFFF00E50D06 /* Base */,
-			);
-			name = 6protectingdata.html;
-			sourceTree = "<group>";
-		};
-		80CBB0CC1C0CE00400E50D06 /* 7datause.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0CB1C0CE00400E50D06 /* Base */,
-			);
-			name = 7datause.html;
-			sourceTree = "<group>";
-		};
-		80CBB0CF1C0CE00800E50D06 /* 8time.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0CE1C0CE00800E50D06 /* Base */,
-			);
-			name = 8time.html;
-			sourceTree = "<group>";
-		};
-		80CBB0D21C0CE00C00E50D06 /* 9study_survey.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0D11C0CE00C00E50D06 /* Base */,
-			);
-			name = 9study_survey.html;
-			sourceTree = "<group>";
-		};
 		80CBB0D51C0CE01200E50D06 /* AboutStudy.html */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -1086,14 +1208,6 @@
 				80CBB0D71C0CE01700E50D06 /* Base */,
 			);
 			name = AboutStudy_intro.html;
-			sourceTree = "<group>";
-		};
-		80CBB0DB1C0CE03600E50D06 /* consent.pdf */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0DA1C0CE03600E50D06 /* Base */,
-			);
-			name = consent.pdf;
 			sourceTree = "<group>";
 		};
 		80CBB0DE1C0CE04100E50D06 /* consentvideo_intro.html */ = {
@@ -1118,14 +1232,6 @@
 				80CBB0E31C0CE06500E50D06 /* Base */,
 			);
 			name = feedback_intro.html;
-			sourceTree = "<group>";
-		};
-		80CBB0E71C0CE07100E50D06 /* howstudyworks.html */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80CBB0E61C0CE07100E50D06 /* Base */,
-			);
-			name = howstudyworks.html;
 			sourceTree = "<group>";
 		};
 		80CBB0EA1C0CE07600E50D06 /* howstudyworks_intro.html */ = {
