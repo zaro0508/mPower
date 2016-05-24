@@ -66,6 +66,7 @@
 		F5DCAD3E19D088330096DEC0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5DCAD3D19D088330096DEC0 /* LaunchScreen.xib */; };
 		F5F32C7C19D0D4C1007F9015 /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFA2ABB519A7C229000DB961 /* HealthKit.framework */; };
 		FF4C352A1C24D24800B664B5 /* APHFinalAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FF4C35291C24D24800B664B5 /* APHFinalAppDelegate.m */; };
+		FFC6D8D21CF40D0A00732183 /* BridgeInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = FFC6D8D11CF40D0A00732183 /* BridgeInfo.plist */; };
 		FFFA24871C23679600727DA8 /* mPowerSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFFA245F1C235BE800727DA8 /* mPowerSDK.framework */; };
 		FFFA24881C23679600727DA8 /* mPowerSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = FFFA245F1C235BE800727DA8 /* mPowerSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
@@ -294,6 +295,7 @@
 		F5DCAD3D19D088330096DEC0 /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 		FF4C35281C24D24800B664B5 /* APHFinalAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APHFinalAppDelegate.h; sourceTree = "<group>"; };
 		FF4C35291C24D24800B664B5 /* APHFinalAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APHFinalAppDelegate.m; sourceTree = "<group>"; };
+		FFC6D8D11CF40D0A00732183 /* BridgeInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BridgeInfo.plist; sourceTree = "<group>"; };
 		FFFA24591C235BE800727DA8 /* mPowerSDK.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = mPowerSDK.xcodeproj; path = mPowerSDK/mPowerSDK.xcodeproj; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -520,6 +522,7 @@
 		CFC2D2DA19A5417D00170E69 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FFC6D8D11CF40D0A00732183 /* BridgeInfo.plist */,
 				F5241CA819AEA5110098A4DF /* Parkinson.entitlements */,
 				CFC2D2DB19A5417D00170E69 /* Info.plist */,
 				CFC2D2DC19A5417D00170E69 /* main.m */,
@@ -759,6 +762,7 @@
 				A781167C1A96BC9400CEC822 /* 13_RiskToPrivacy@3x.m4v in Resources */,
 				80CBB0F11C0CE0A000E50D06 /* online_resources.html in Resources */,
 				80CBB0F41C0CE0B200E50D06 /* PD_fullconsent.html in Resources */,
+				FFC6D8D21CF40D0A00732183 /* BridgeInfo.plist in Resources */,
 				80CBB08C1C0CD9FA00E50D06 /* symptoms_top.png in Resources */,
 				80CBB1001C0CE0E600E50D06 /* whoisrunning_intro.html in Resources */,
 				80CBB0FD1C0CE0E000E50D06 /* whoisrunning.html in Resources */,

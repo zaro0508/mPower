@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>studyIdentifier</key>
+	<string>sample-study</string>
+	<key>certificateName</key>
+	<string>sample-study</string>
+	<key>schemaMapping</key>
+	<array>
+		<dict>
+			<key>schemaIdentifier</key>
+			<string>Mood Survey</string>
+			<key>schemaRevision</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>schemaIdentifier</key>
+			<string>Medication Tracker</string>
+			<key>schemaRevision</key>
+			<integer>8</integer>
+		</dict>
+		<dict>
+			<key>schemaIdentifier</key>
+			<string>Tremor Activity</string>
+			<key>schemaRevision</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>schemaIdentifier</key>
+			<string>Tapping Activity</string>
+			<key>schemaRevision</key>
+			<integer>9</integer>
+		</dict>
+		<dict>
+			<key>schemaIdentifier</key>
+			<string>Voice Activity</string>
+			<key>schemaRevision</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>schemaIdentifier</key>
+			<string>Memory Activity</string>
+			<key>schemaRevision</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>schemaIdentifier</key>
+			<string>Walking Activity</string>
+			<key>schemaRevision</key>
+			<integer>5</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
